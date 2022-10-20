@@ -1,0 +1,25 @@
+body{
+    background-image: url(ramadan.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    font-family: "Poppins", sans-serif;
+}
+
+h1{
+    display: flex;
+    justify-content: center;
+}
+
+.countdown-container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.countdown-el{
+    margin: 4%;
+    font-weight: bold;
+    font-size: x-large;
+    text-align: center;
+}
